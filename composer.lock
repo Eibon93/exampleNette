@@ -1247,6 +1247,9 @@
     "stability-flags": {
         "tracy/tracy": 20
     },
+    "require":{
+        "php":"7.0.*"
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
